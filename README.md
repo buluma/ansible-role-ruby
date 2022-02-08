@@ -4,7 +4,7 @@ Install ruby on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-ruby/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-ruby/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-ruby/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-ruby)|[![quality](https://img.shields.io/ansible/quality/54980)](https://galaxy.ansible.com/buluma/ruby)|[![downloads](https://img.shields.io/ansible/role/d/54980)](https://galaxy.ansible.com/buluma/ruby)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-ruby.svg)](https://github.com/buluma/ansible-role-ruby/releases/)|
+|[![github](https://github.com/buluma/ansible-role-ruby/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-ruby/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-ruby/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-ruby)|[![quality](https://img.shields.io/ansible/quality/54980)](https://galaxy.ansible.com/buluma/ruby)|[![downloads](https://img.shields.io/ansible/role/d/54980)](https://galaxy.ansible.com/buluma/ruby)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-ruby.svg)](https://github.com/buluma/ansible-role-ruby/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
