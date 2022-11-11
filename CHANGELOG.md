@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.6](https://github.com/buluma/ansible-role-ruby/tree/1.0.6) (2022-10-06)
+
+[Full Changelog](https://github.com/buluma/ansible-role-ruby/compare/1.0.5...1.0.6)
+
 ## [1.0.5](https://github.com/buluma/ansible-role-ruby/tree/1.0.5) (2022-08-20)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ruby/compare/1.0.4...1.0.5)
