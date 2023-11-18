@@ -1,10 +1,10 @@
-# [ruby](#ruby)
+# [Ansible role ruby](#ruby)
 
 Install ruby on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-ruby/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-ruby/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-ruby/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-ruby)|[![quality](https://img.shields.io/ansible/quality/54980)](https://galaxy.ansible.com/buluma/ruby)|[![downloads](https://img.shields.io/ansible/role/d/54980)](https://galaxy.ansible.com/buluma/ruby)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-ruby.svg)](https://github.com/buluma/ansible-role-ruby/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-ruby.svg)](https://github.com/buluma/ansible-role-ruby/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-ruby.svg)](https://github.com/buluma/ansible-role-ruby/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-ruby/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-ruby/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-ruby/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-ruby)|[![downloads](https://img.shields.io/ansible/role/d/4826)](https://galaxy.ansible.com/buluma/ruby)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-ruby.svg)](https://github.com/buluma/ansible-role-ruby/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-ruby.svg)](https://github.com/buluma/ansible-role-ruby/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-ruby.svg)](https://github.com/buluma/ansible-role-ruby/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
