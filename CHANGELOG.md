@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-ruby/tree/HEAD)
+## [1.0.7](https://github.com/buluma/ansible-role-ruby/tree/1.0.7) (2023-11-24)
 
-[Full Changelog](https://github.com/buluma/ansible-role-ruby/compare/1.0.6...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-ruby/compare/1.0.6...1.0.7)
 
 **Closed issues:**
 
