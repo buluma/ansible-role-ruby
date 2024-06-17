@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#20](https://github.com/buluma/ansible-role-ruby/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#19](https://github.com/buluma/ansible-role-ruby/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.3.0](https://github.com/buluma/ansible-role-ruby/tree/1.3.0) (2024-01-20)
@@ -22,7 +23,6 @@
 
 **Merged pull requests:**
 
-- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#20](https://github.com/buluma/ansible-role-ruby/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 3 to 4 [\#16](https://github.com/buluma/ansible-role-ruby/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#15](https://github.com/buluma/ansible-role-ruby/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
 
