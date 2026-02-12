@@ -5,4 +5,4 @@
 repository:
   description: Install ruby on your system.
   homepage: https://buluma.github.io/
-  topics: ruby, installer, package, ansible, molecule, tox, playbook
+  topics: ruby, installer, package, ansible, molecule, playbook
